@@ -340,7 +340,7 @@ It helps others discover the project and motivates future improvements.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Vivek Kumar**
 
 Data Analyst | Data Science Enthusiast | Python Developer
 
